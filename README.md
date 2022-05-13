@@ -1,2 +1,4 @@
 # Instagram-login-page
-Página de login do Instagram recriada com o uso de html e css
+Primeiro projeto de html e css.
+Recriando a página de login utiizando os conceitos aprendidos. 
+:v:
